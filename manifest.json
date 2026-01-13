@@ -1,0 +1,17 @@
+{
+  "name": "tawheed Media Vault",
+  "short_name": "tawheed",
+  "description": "High-performance private local media vault for local videos and audio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/711/711245.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
